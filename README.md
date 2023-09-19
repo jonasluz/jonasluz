@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonasluz
 - 👀 I’m interested in Game Development among other stuff.
-- 🌱 I’m currently learning Unity and Game Design.
+- 🌱 I’m currently learning Godot, Blender and Game Design.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->

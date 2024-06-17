@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonasluz
-- 👀 I’m interested in Game Development among other stuff.
-- 🌱 I’m currently learning Godot, Blender and Game Design.
+- 👀 I’m interested in Artificial Intelligence, Game Development and the impact of Artificial Intelligence in Game Dev practices and technologies.
+- 🌱 I’m currently learning Blender, Godot, Unity, and AI cloud services APIs.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->

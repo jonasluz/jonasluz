@@ -1,6 +1,6 @@
 ---
 
-🌍 Especialista em TIC | 🎮 Entusiasta de Desenvolvimento de Jogos | 💡 Inovando com IA e Tecnologia | 🎓 Mestrado em Informática Aplicada (em andamento)
+🌍 Especialista em TIC | 🎮 Entusiasta em Desenvolvimento de Jogos | 💡 Inovando com IA e Tecnologia | 🎓 Mestrado em Informática Aplicada (em andamento)
 
 Com mais de 20 anos de experiência em infraestrutura de TI e análise de sistemas, atuo no suporte a ambientes complexos de TIC, enquanto sigo minha paixão por desenvolvimento de jogos e IA. Hábil em desenvolvimento de software, resolução de problemas e colaboração em projetos inovadores, meu foco é unir soluções tecnológicas de ponta com experiências digitais imersivas.
 
